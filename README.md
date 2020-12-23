@@ -8,6 +8,7 @@
 
 ## 기능 
 ### Smart Mirror
+
 [Magic Mirror2](https://magicmirror.builders/) Open Source code 및 각종 모듈 사용 
 
 ### 아두이노 인체감지 센서 
